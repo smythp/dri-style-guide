@@ -25,7 +25,6 @@ Try to incorporate review into your lesson organically. If a concept won't be us
 The most common question in DRI sessions is, "How does this relate to my research?" Researchers are more motivated to learn when they know that a tool or method can be used directly to advance their own goals. one way to help researchers to understand the purpose of a tool or method is to structure the lesson around a "deliverable"—a website, a piece of persuasive writing, a cleaned data set, an application, a visualization, or any other useful product. Even if the result does not relate directly to a participant's research, it's often easier to extrapolate usefulness from a concrete product than from a series of loosely coupled actios or skills.
 
 Working toward creating a specific artifact in your lesson can also help with scaffolding and scoping. If you know exactly what students will need to learn to create, for example, a course website, that makes it easier to leave out concepts that don't directly relate to that goal. It also suggests discrete steps and challenges that students must engage before completing the deliverable, often leading to a more intuitive lesson structure.
-# Style Guide
 
 ## Markdown Guidelines
 
