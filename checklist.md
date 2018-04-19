@@ -2,8 +2,13 @@
 
 Every module in the curriculum should have these elements:
 
-- A dedicated repository on GitHub with a README.md file.
-- Four elements present in the README.md file: a `h1` level heading with the name of the tutorial, a short paragraph with an accessible description of the technique or technology, a short paragraph with the goals or outcomes of the workshop, and a table of contents with links to the topics in the tutorial
+- A dedicated repository on GitHub
+- A README.md file.
+- Four elements present in the README.md file: 
+  - a `h1` level heading with the name of the tutorial
+  - a short paragraph with an accessible description of the technique
+  - a short paragraph with the goals or outcomes of the workshop
+  - a table of contents with links to the topics in the tutorial
 - An introductory page describing the technique or technology in more detail, ideally also explaining the purpose or value of the approach
 - A page or pages with installation or setup instructions
 - A page or set of pages for each major concept or milestone in the tutorial.
